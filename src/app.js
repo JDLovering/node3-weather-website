@@ -102,5 +102,5 @@ app.get('*', (req, res) => {
 });
 
 app.listen(3002, () => {
-	console.log('Server is app on port 3002');
+	console.log('Server is app on port 3000');
 });
